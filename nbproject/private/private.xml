@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/ui/SplashScreen.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/adminui/AdminMainScreen.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/adminui/ChangePassword.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/model/to/DiseaseInfoTo.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/model/dao/DiseaseInfoDAO.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/adminui/AddRoomDetails.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/userui/MyDesktopPane.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/adminui/EditPatientRoom.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/model/to/PatientRoomTo.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/adminui/AddDiseaseDetails.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/model/to/LoginInfoTo.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/model/to/PatientDiseaseTo.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/model/dao/PatientRoomDAO.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/adminui/ViewPatients.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/adminui/CurrentDatePanel.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/adminui/AddPatientDetails.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/ui/LoginFrame.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/userui/UserMainScreen.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/model/dao/RoomTypeDAO.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/model/dao/PatientInfoDAO.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/model/to/RoomInfoTo.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/model/dao/LoginInfoDAO.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/model/dao/PatientDiseaseDAO.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/model/to/PatientInfoTo.java</file>
+            <file>file:/D:/my%20documents/java/hospitalmanagement/src/model/dao/RoomInfoDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
